@@ -15,7 +15,7 @@ def modulo(a, b):
 
 
 def main():
-    print("Simple Calculator")
+    print("A very Simple Calculator")
     print("Operations: +  -  *  %")
     print()
 
